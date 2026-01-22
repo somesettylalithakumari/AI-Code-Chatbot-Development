@@ -1,6 +1,18 @@
-streamlit
-langchain
-langchain-groq
-langchain-community
-faiss-cpu
-PyPDF2
+streamlit==1.29.0
+streamlit_chat==0.0.3  
+PyPDF2==3.0.1
+pdfplumber==0.10.0
+sentence-transformers==2.2.2
+torch==2.1.0
+transformers==4.32.2
+huggingface-hub==0.17.4
+tiktoken==0.4.0
+faiss-cpu==1.7.4  # Vector similarity search
+langchain==0.1.234
+langchain-openai==0.0.31
+langchain-groq==0.0.9
+groq-client==0.0.14
+SQLAlchemy==2.0.23
+sqlite3  # built-in with Python
+python-dotenv==1.0.1 
+requests==2.31.0
