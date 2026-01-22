@@ -19,7 +19,9 @@ The assistant answers user questions using uploaded PDFs and intelligently guide
 
 ---
 
-##  Project Structure
+## Project Structure
+
+```text
 ai_code_chatbot/
 │
 ├── app/
@@ -41,6 +43,7 @@ ai_code_chatbot/
 │
 ├── requirements.txt
 └── README.md
+```
 
 # Requirements
 Python 3.9+
@@ -109,6 +112,7 @@ Confirmation email is sent
     width="900"
   />
 </p>
+
 
 
 
