@@ -1,6 +1,9 @@
 #  AI Booking Assistant 
 
-An end-to-end **AI Booking Assistant** built with **Streamlit**, **Groq LLM**, and **Retrieval-Augmented Generation (RAG)**.  
+An end-to-end **AI Booking Assistant** built with **Streamlit**, **Groq LLM**, and **Retrieval-Augmented Generation (RAG)**. 
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)[![Watch the Demo](https://github.com/user-attachments/assets/03ee471d-8afa-4ac5-bfe1-8c28daec30f0)
+
 The assistant answers user questions using uploaded PDFs and intelligently guides users through a complete **booking workflow**, storing data in a database and sending email confirmations.
 
 ---
@@ -74,7 +77,8 @@ SMTP_PASSWORD=your_email_password
 ```
 python -m streamlit run app/main.py
 ```
-
+## 🎥 Demo
+Watch our video demonstration: 👉 [AI Booking Assistant](https://github.com/user-attachments/assets/03ee471d-8afa-4ac5-bfe1-8c28daec30f0)
 
 # How It Works
 ## Chat Flow
@@ -112,6 +116,11 @@ Confirmation email is sent
     width="900"
   />
 </p>
+
+
+
+
+
 
 
 
