@@ -102,6 +102,15 @@ Confirmation email is sent
 - Accessible from the bottom of the app
 
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3f3ad097-2d1b-4a2e-a9e5-339e3e4f5d6f"
+    alt="Application Screenshot"
+    width="900"
+  />
+</p>
+
+
 
 
 
