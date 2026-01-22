@@ -75,12 +75,12 @@ python -m streamlit run app/main.py
 
 # How It Works
 ## Chat Flow
-User asks a question
-PDFs are searched via RAG
-Groq LLM generates a context-aware response
+-User asks a question
+-PDFs are searched via RAG
+-Groq LLM generates a context-aware response
 
-# Booking Flow
-User says “I want to book”
+## Booking Flow
+-User says “I want to book”
 Assistant collects:
 Name
 Email
@@ -91,15 +91,16 @@ User confirms
 Booking is saved to DB
 Confirmation email is sent
 
-# PDF Knowledge Base (RAG)
-Upload PDFs from the UI
-PDFs are embedded and indexed
-AI answers questions only using uploaded knowledge
+## PDF Knowledge Base (RAG)
+-Upload PDFs from the UI
+-PDFs are embedded and indexed
+-AI answers questions only using uploaded knowledge
 
-# Admin Dashboard
-View all bookings
-Monitor system usage
-Accessible from the bottom of the app
+## Admin Dashboard
+-View all bookings
+-Monitor system usage
+-Accessible from the bottom of the app
+
 
 
 
